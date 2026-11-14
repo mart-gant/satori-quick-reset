@@ -4,6 +4,11 @@
   "description": "Partner widget for digital hygiene: box breathing 4-4-4-4, a reaction test and a session export for Krok. Runs fully in the browser; no backend, no tracking.",
   "author": "Marcin Gantkowski",
   "license": "Apache-2.0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mart-gant/satori-quick-reset.git"
+  },
+  "homepage": "https://github.com/mart-gant/satori-quick-reset#readme",
   "private": true,
   "type": "module",
   "exports": {

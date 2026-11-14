@@ -44,10 +44,8 @@ Są dwa sposoby. Wybierz według tego, czy Krok ma dostać dane sesji automatycz
 ### A. Komponent React
 
 ```bash
-npm install github:<owner>/satori-quick-reset
+npm install github:mart-gant/satori-quick-reset
 ```
-
-`<owner>` to konto albo organizacja, pod którą opublikujesz repozytorium.
 
 ```tsx
 import { QuickReset } from 'satori-quick-reset';
